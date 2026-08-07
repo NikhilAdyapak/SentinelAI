@@ -53,3 +53,7 @@ Clone the repository and install the dependencies:
 git clone [https://github.com/your-org/sentinelai.git](https://github.com/your-org/sentinelai.git)
 cd sentinelai
 pip install -r requirements.txt
+
+---
+
+Built by Nikhil Adyapak · [Portfolio](https://nikhiladyapak.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
