@@ -56,4 +56,4 @@ pip install -r requirements.txt
 
 ---
 
-Built by Nikhil Adyapak · [Portfolio](https://nikhiladyapak.github.io/) · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak)
+_Part of [Nikhil Adyapak](https://nikhiladyapak.github.io/)'s portfolio · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak) · [GitHub](https://github.com/NikhilAdyapak)_
