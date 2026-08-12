@@ -56,4 +56,4 @@ pip install -r requirements.txt
 
 ---
 
-_Part of [Nikhil Adyapak](https://nikhiladyapak.github.io/)'s portfolio · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak) · [GitHub](https://github.com/NikhilAdyapak)_
+_Part of [Nikhil Adyapak](https://nikhiladyapak.github.io/)'s portfolio · [Resume](https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_resume.pdf) · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak) · [GitHub](https://github.com/NikhilAdyapak)_
