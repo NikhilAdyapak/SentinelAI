@@ -15,7 +15,6 @@ Powered by Llama 3.2 3B on the Snapdragon X Elite Hexagon NPU, every byte of you
 
 ### Dashboard Previews
 
-[//]: # (Drop your screenshot images into the repo and link them here)
 ![Legal Risk Dashboard](./assets/FE2.png) 
 *Sentinel-Edge AI evaluating an Affiliate Agreement for Legal Risks.*
 
@@ -50,8 +49,8 @@ Powered by Llama 3.2 3B on the Snapdragon X Elite Hexagon NPU, every byte of you
 ### 2. Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/your-org/sentinelai.git](https://github.com/your-org/sentinelai.git)
-cd sentinelai
+git clone https://github.com/NikhilAdyapak/SentinelAI.git
+cd SentinelAI
 pip install -r requirements.txt
 
 ---
