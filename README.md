@@ -52,6 +52,7 @@ Clone the repository and install the dependencies:
 git clone https://github.com/NikhilAdyapak/SentinelAI.git
 cd SentinelAI
 pip install -r requirements.txt
+```
 
 ---
 
