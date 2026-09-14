@@ -54,6 +54,12 @@ cd SentinelAI
 pip install -r requirements.txt
 ```
 
+### 3. Run
+Start AnythingLLM on port 3001, then launch the dashboard:
+```bash
+streamlit run frontend.py
+```
+
 ---
 
 _Part of [Nikhil Adyapak](https://nikhiladyapak.github.io/)'s portfolio · [Resume](https://nikhiladyapak.github.io/NIKHIL_ADYAPAK_resume.pdf) · [LinkedIn](https://www.linkedin.com/in/nikhil-adyapak) · [GitHub](https://github.com/NikhilAdyapak) · [Email](mailto:nikhiladyapak31@gmail.com)_
